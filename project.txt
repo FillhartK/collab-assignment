@@ -1,4 +1,2 @@
 This is a project file for our collaboration assignment.
-git clone https://github.com/FillhartK/collab-assignment
-cd collab-assignment
-ls
+Collaborator made this change.
